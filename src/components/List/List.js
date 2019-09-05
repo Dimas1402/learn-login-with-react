@@ -4,9 +4,9 @@ const List = ({ nomor, email, password }) => {
   return (
     <div className="card">
       <p className="tagP">
-        {nomor}.Email    :{email}
+        {nomor}.<a className="tagA">Email  </a>  :{email}
         <br></br>
-        Password :{password}
+        <a className="tagA">Password  </a>   :{password}
       </p>
     </div>
   );
