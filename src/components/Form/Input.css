@@ -1,0 +1,21 @@
+input{
+    font-size:14px;
+    box-shadow: black 5px 6px 5px 6px;
+	color:darkgray;
+    cursor:pointer;
+    margin:15px 0;
+	padding:15px 10px;
+	width:20%;
+	outline:none;
+	border:1px solid #bbb;
+	border-radius:20px;
+	display:inline-block;
+	-webkit-box-sizing:border-box;
+	   -moz-box-sizing:border-box;
+	        box-sizing:border-box;
+    -webkit-transition:0.2s ease all;
+	   -moz-transition:0.2s ease all;
+	    -ms-transition:0.2s ease all;
+	     -o-transition:0.2s ease all;
+	        transition:0.2s ease all;
+}
